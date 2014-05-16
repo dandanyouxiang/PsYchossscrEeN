@@ -17,6 +17,7 @@ namespace PsYchossscrEeN {
         public ScreenArea() {
             InitializeComponent();
 
+            Focus();
             Topmost = true;
         }
 
@@ -57,6 +58,11 @@ namespace PsYchossscrEeN {
             if (e.LeftButton == MouseButtonState.Pressed) {
                 DragMove();
             }
+        }
+
+        private void Window_MouseWheel(object sender, MouseWheelEventArgs e) {
+            Width += Width * e.Delta / 1000;
+            Height += Height * e.Delta / 1000;
         }
     }
 }

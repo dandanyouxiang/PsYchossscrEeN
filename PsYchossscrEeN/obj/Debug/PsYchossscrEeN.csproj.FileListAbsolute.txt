@@ -11,3 +11,18 @@ c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscr
 c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\bin\Debug\PsYchossscrEeN.pdb
 c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.exe
 c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.pdb
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\bin\Debug\PsYchossscrEeN.exe.config
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.exe
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.pdb
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\bin\Debug\PsYchossscrEeN.exe
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\bin\Debug\PsYchossscrEeN.pdb
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.csprojResolveAssemblyReference.cache
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\MainWindow.baml
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\ScreenArea.baml
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\MainWindow.g.cs
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\ScreenArea.g.cs
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\App.g.cs
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN_MarkupCompile.cache
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.g.resources
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.Properties.Resources.resources
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.csproj.GenerateResource.Cache

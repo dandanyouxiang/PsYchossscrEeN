@@ -13,3 +13,18 @@ c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscr
 c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Release\ScreenArea.baml
 c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Release\ScreenArea.g.cs
 c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Release\PsYchossscrEeN.csprojResolveAssemblyReference.cache
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\bin\Release\PsYchossscrEeN.exe.config
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Release\PsYchossscrEeN.exe
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Release\PsYchossscrEeN.pdb
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\bin\Release\PsYchossscrEeN.exe
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\bin\Release\PsYchossscrEeN.pdb
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Release\PsYchossscrEeN.csprojResolveAssemblyReference.cache
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Release\MainWindow.baml
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Release\ScreenArea.baml
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Release\MainWindow.g.cs
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Release\ScreenArea.g.cs
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Release\App.g.cs
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Release\PsYchossscrEeN_MarkupCompile.cache
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Release\PsYchossscrEeN.g.resources
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Release\PsYchossscrEeN.Properties.Resources.resources
+H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Release\PsYchossscrEeN.csproj.GenerateResource.Cache

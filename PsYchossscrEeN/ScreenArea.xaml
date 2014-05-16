@@ -11,6 +11,7 @@
         ShowInTaskbar="False"
         WindowStyle="None" 
         Background="#FF0C00FF" 
-        KeyDown="ScreenArea_OnKeyDown"
+        KeyDown="ScreenArea_OnKeyDown" 
+        MouseWheel="Window_MouseWheel"       
         >
 </Window>
