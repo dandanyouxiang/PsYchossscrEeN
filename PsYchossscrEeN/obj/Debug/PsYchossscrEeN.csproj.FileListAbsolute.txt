@@ -1,0 +1,13 @@
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\bin\Debug\PsYchossscrEeN.exe.config
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.csprojResolveAssemblyReference.cache
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\MainWindow.baml
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\MainWindow.g.cs
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\App.g.cs
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN_MarkupCompile.cache
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.g.resources
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.Properties.Resources.resources
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.csproj.GenerateResource.Cache
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\bin\Debug\PsYchossscrEeN.exe
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\bin\Debug\PsYchossscrEeN.pdb
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.exe
+c:\users\steven\documents\visual studio 2012\Projects\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.pdb
