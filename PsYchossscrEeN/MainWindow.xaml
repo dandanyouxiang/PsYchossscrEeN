@@ -21,10 +21,10 @@
 
 
         <Label Content="Directory" Margin="10,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="108" Height="25" VerticalContentAlignment="Center"/>
-        <Button x:Name="ButtonDirectory" Content="Choose directory" Margin="0,10,10,0" VerticalAlignment="Top" Width="117" Height="25" HorizontalAlignment="Right" Click="ButtonDirectory_Click"/>
+        <Button x:Name="ButtonDirectory" Content="Choose directory" Margin="0,10,10,0" VerticalAlignment="Top" Width="118" Height="25" HorizontalAlignment="Right" Click="ButtonDirectory_Click"/>
         <Label x:Name="LabelTitle" Content="PsYchossscrEeN" HorizontalAlignment="Left" Margin="0,-26,0,0" Height="25" VerticalAlignment="Top" Foreground="#FFD1D1D1"/>
-        <TextBox x:Name="TextBoxName" Height="25" Margin="0,40,9,0" TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Right" Width="118"/>
-        <ComboBox x:Name="ComboBoxExt" HorizontalAlignment="Right" Margin="0,70,10,0" VerticalAlignment="Top" Width="117" Height="25" SelectedIndex="0" SelectionChanged="ComboBoxExt_SelectionChanged"/>
+        <TextBox x:Name="TextBoxName" Height="25" Margin="0,40,10,0" TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Right" Width="118"/>
+        <ComboBox x:Name="ComboBoxExt" HorizontalAlignment="Right" Margin="0,70,10,0" VerticalAlignment="Top" Width="118" Height="25" SelectedIndex="0" SelectionChanged="ComboBoxExt_SelectionChanged"/>
         <Label Content="File name" Margin="10,40,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="108" Height="25" VerticalContentAlignment="Center"/>
         <Label Content="Extension" Margin="10,70,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="108" Height="25" VerticalContentAlignment="Center"/>
 
