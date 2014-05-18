@@ -26,3 +26,4 @@ H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN_MarkupCompile.cach
 H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.g.resources
 H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.Properties.Resources.resources
 H:\Git\PsYchossscrEeN\PsYchossscrEeN\obj\Debug\PsYchossscrEeN.csproj.GenerateResource.Cache
+C:\git\PsYchossscrEeN\PsYchossscrEeN\bin\Debug\PsYchossscrEeN.exe.config

@@ -9,9 +9,8 @@ namespace PsYchossscrEeN {
     /// </summary>
     public partial class ScreenArea {
 
-        public string fileName = "Screen";
+        public string fileName = "Screen.Png";
         public ImageFormat format = ImageFormat.Png; //Default is png
-        public string extension = "png";
         public String fileDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
         public ScreenArea() {
@@ -49,7 +48,7 @@ namespace PsYchossscrEeN {
             gfxScreenshot.CopyFromScreen(Convert.ToInt32(Left), Convert.ToInt32(Top), 0, 0, windowSize, CopyPixelOperation.SourceCopy);
             
             //Save screenshot
-            bmpScreenshot.Save(fileDirectory + "\\" + fileName + "." + extension, format);
+            bmpScreenshot.Save(fileDirectory + "\\" + fileName, format);
         }
 
         private void Window_MouseMove(object sender, MouseEventArgs e) {
